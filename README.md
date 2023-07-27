@@ -45,7 +45,7 @@ Two cards of the same rank, accompanied by three unrelated cards.
 
 10. #### High Card: 
 When no player forms any of the above hands, the highest-ranking card in their hand determines the winner. If two players have the same high card, the second-highest card, and so on, are used to determine the winner.
-## 
+
 
 
 ![game](https://github.com/ishita126jain/Poker-Hand-Detector/assets/91709949/eb75e7f6-3b6a-4587-8d94-22ede9cd4133)
